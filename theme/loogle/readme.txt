@@ -1,7 +1,7 @@
 	/*
 		Theme Name: Loogle
 		URI: http://lineshjose.com/
-		Description:  Loogle is a simple and Google-like WordPress theme built-in widgets and a intuitive theme settings interface... Designed by <a href="http://lineshjose.com/">Linesh Jose</a>.
+		Description:  Loogle is a simple and Google-like WordPress theme built-in widgets and a intuitive theme settings interface... Designed by Linesh Jose.
 		Version: 11.06
 		Author: Linesh Jose 
 		Author URI: http://linesjose.com
@@ -37,9 +37,9 @@
 	[ -= 	Installation:    =- ]
 	--------------------------------
 	1: Extract the downloaded .zip file in a convenient location
-	2: upload the  theme folder to ‘/wp-content/themes/’ directory in your web server.
+	2: upload the  theme folder to â€˜/wp-content/themes/â€™ directory in your web server.
 	3: Log in to the WordPress Administration Dashboard
-	4: Select the ‘Themes’ sub-menu from ‘Appearance’ menu
+	4: Select the â€˜Themesâ€™ sub-menu from â€˜Appearanceâ€™ menu
 	5: Select the 'Loogle' theme from the available list of themes to preview
 	6: Activate the theme.
 	

@@ -1,6 +1,6 @@
 Loogle
 ====================================
-This is a Loogle Free WordPress theme.
+A free WordPress theme.
 
 
  Theme Copyright:   

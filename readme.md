@@ -1,7 +1,7 @@
 # Loogle
 A google like free WordPress theme.
 
-![beautiful screenshot](./screenshot.png)
+![beautiful screenshot](./loogle.png)
 
 
 ## Installation:
